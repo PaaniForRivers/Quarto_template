@@ -1,1 +1,1 @@
-Sitemap: https://anandology.github.io/quarto-website-template/sitemap.xml
+Sitemap: https://PaaniForRivers.github.io/Quarto_template/sitemap.xml
