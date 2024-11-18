@@ -1,0 +1,12 @@
+---
+title: 'I want to test this site'
+categories:
+    - Surveys
+date: 2024-11-18
+author: Madhuri Mandvaa
+---
+
+![](map.jpeg)
+
+This is really fun!
+
